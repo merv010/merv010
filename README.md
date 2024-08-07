@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DrawC.io**
 
-- 🌱 I’m currently learning **Front End Web Development**
+- 🌱 I’m currently learning **Frontend Web Development**
 
 - 💬 Ask me about **anything related to Mechatronics**
 

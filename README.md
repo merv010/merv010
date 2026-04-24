@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merv010&label=Profile%20views&color=0e75b6&style=flat" alt="merv010" /> </p>
 
-- 🔭 I’m currently working on **creating my website portfolio!**
+- 🔭 I’m currently working on **Drawer Design to STL!**
 
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently learning **PCB Design**
 
 - 💬 Ask me about **anything related to Mechatronics**
 

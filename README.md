@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">Mechatronics Engineer from Cyprus</h3>
-<h3 align="center">Msc in Microelectronics and Microsystems in Malta! </h3>
+<h3 align="center"> Studying Masters in Microelectronics and Microsystems in Malta! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merv010&label=Profile%20views&color=0e75b6&style=flat" alt="merv010" /> </p>
 
